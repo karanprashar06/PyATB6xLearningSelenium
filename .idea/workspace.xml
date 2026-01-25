@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcfe627a-1734-418b-9a78-cb805eb57764" name="Changes" comment="Selenium test cases">
-      <change afterPath="$PROJECT_DIR$/src/Task/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/test_Selenium_Task01_Project_02_AppVWO_Neg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/test_Selenium_Task02_Project_03_iDrive360.py" afterDir="false" />
+    <list default="true" id="dcfe627a-1734-418b-9a78-cb805eb57764" name="Changes" comment="Task Done">
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Selenium_Locators_Project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Selenium_Locators_Project/test_Selenium_11_Projects_VWO.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task/test_Selenium_Task02_Project_03_iDrive360.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task/test_Selenium_Task02_Project_03_iDrive360.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,12 +175,21 @@
       <option name="project" value="LOCAL" />
       <updated>1769334682589</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Task Done">
+      <option name="closed" value="true" />
+      <created>1769338659659</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1769338659659</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Readme.md file updatad" />
     <MESSAGE value="Selenium test cases" />
-    <option name="LAST_COMMIT_MESSAGE" value="Selenium test cases" />
+    <MESSAGE value="Task Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task Done" />
   </component>
 </project>

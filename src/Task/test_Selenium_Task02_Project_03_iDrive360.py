@@ -17,13 +17,13 @@ from selenium.webdriver.common.by import By
 def test_iDrive360():
 
     # If the test need to run with Chrome browser
-    # chrome_options = Options()
-    # chrome_options.add_argument("--start-maximized")
+    chrome_options = Options()
+    chrome_options.add_argument("--start-maximized")
     # driver = webdriver.Edge(options=chrome_options)
 
     # If the test need to run with Edge browser
-    driver = webdriver.Chrome()
-    driver.maximize_window()
+    driver = webdriver.Chrome(options=chrome_options)
+    #driver.maximize_window()
 
     driver.get("https://www.idrive360.com/enterprise/login")
 
