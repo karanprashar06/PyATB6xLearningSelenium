@@ -4,13 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcfe627a-1734-418b-9a78-cb805eb57764" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PyATB6xLearningSelenium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyATB6xLearningSelenium.iml" afterDir="false" />
+    <list default="true" id="dcfe627a-1734-418b-9a78-cb805eb57764" name="Changes" comment="Readme.md file updatad">
+      <change afterPath="$PROJECT_DIR$/src/ex_01_Selenium_Basics/test_Selenium_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_01_Selenium_Basics/test_Selenium_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Selenium_Commands/test_Selenium_06_ALL_BROWSER.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Selenium_Commands/test_Selenium_07_OptionClass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Selenium_Mini_Projects_Locators/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Selenium_Mini_Projects_Locators/test_10_parrell_execution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Selenium_Mini_Projects_Locators/test_Selenium_08_Project_01_Positive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Selenium_Mini_Projects_Locators/test_Selenium_09_Project_01_Negative.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_01_Selenium_Basics/test_selenium_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_01_Selenium_Basics/test_selenium_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_02_Selenium_Commands/test_Selenium_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_02_Selenium_Commands/test_Selenium_04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_02_Selenium_Commands/test_Selenium_05_TASk.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_02_Selenium_Commands/test_Selenium_05_TASk.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ex_02_Selenium_Commands/test_extra.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_02_Selenium_Commands/test_extra.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,21 +31,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "karanprashar06"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;karanprashar06&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/karanprashar06/PyATB6xLearningSelenium.git",
-    "accountId": "a8a864cc-8827-4000-b8e6-ff2435c115a5"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/karanprashar06/PyATB6xLearningSelenium.git&quot;,
+    &quot;accountId&quot;: &quot;a8a864cc-8827-4000-b8e6-ff2435c115a5&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="38Zc6b1itPyHAMIAmYAGhPunSsZ" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -55,13 +58,15 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python tests.Python tests for src.ex_01_Selenium_Basics.test_selenium_01.test_selenium_01.executor": "Run",
+    "Python tests.Python tests for src.ex_02_Selenium_Commands.test_Selenium_07_OptionClass.test_chrome_option.executor": "Run",
+    "Python tests.Python tests in test_10_parrell_execution.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Python tests in test_10_parrell_execution.py">
     <configuration name="Python tests for src.ex_01_Selenium_Basics.test_selenium_01.test_selenium_01" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearningSelenium" />
       <option name="ENV_FILES" value="" />
@@ -77,8 +82,40 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for src.ex_02_Selenium_Commands.test_Selenium_07_OptionClass.test_chrome_option" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearningSelenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.ex_02_Selenium_Commands.test_Selenium_07_OptionClass.test_chrome_option&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_10_parrell_execution.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearningSelenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/ex_03_Selenium_Mini_Projects_Locators/test_10_parrell_execution.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests in test_10_parrell_execution.py" />
+        <item itemvalue="Python tests.Python tests for src.ex_02_Selenium_Commands.test_Selenium_07_OptionClass.test_chrome_option" />
         <item itemvalue="Python tests.Python tests for src.ex_01_Selenium_Basics.test_selenium_01.test_selenium_01" />
       </list>
     </recent_temporary>
@@ -98,6 +135,19 @@
       <option name="presentableId" value="Default" />
       <updated>1769010359627</updated>
     </task>
+    <task id="LOCAL-00001" summary="Readme.md file updatad">
+      <option name="closed" value="true" />
+      <created>1769017433006</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1769017433006</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Readme.md file updatad" />
+    <option name="LAST_COMMIT_MESSAGE" value="Readme.md file updatad" />
   </component>
 </project>
