@@ -13,6 +13,7 @@ from selenium.webdriver.common.by import By
 
 def test_project_1_katalon_positive():
     chrome_options = Options()
+    chrome_options.add_argument("-incognito")
     chrome_options.add_argument("--start-maximized")
     driver = webdriver.Chrome(options=chrome_options)
     driver.get("https://instagram.com/")
@@ -40,8 +41,8 @@ def test_project_1_katalon_positive():
     # value="">
 
     password_input_box = driver.find_element(By.NAME, "pass")
-    password_input_box.send_keys("csfdv")
-    time.sleep(5)
+    password_input_box.send_keys("Akshay@06")
+    time.sleep(10)
 
     #<span class="x1lliihq x193iq5w x6ikm8r x10wlt62 xlyipyv xuxw1ft">
     # Log in
@@ -61,36 +62,46 @@ def test_project_1_katalon_positive():
     logged_in_button = driver.find_element(By.XPATH, "//span[text()='Log in']")
     logged_in_button.click()
 
-    #assert driver.current_url == "https://katalon-demo-cura.herokuapp.com/#appointment"
 
-    time.sleep(20)
+
+    time.sleep(15)
 
     #not_now = driver.find_element(By.XPATH, "//span[text()='Not Now']")
     save_info = driver.find_element(By.XPATH, "//button[normalize-space()='Save info']")
     save_info.click()
 
-    time.sleep(10)
+    time.sleep(5)
     #driver.quit()
+    #driver.refresh()
 
 
-
-    send_message =driver.find_element(By.XPATH, "//span[text()='Messages']")
-    send_message.click()
-    time.sleep(10)
-
-    ak_message = driver.find_element(By.XPATH, "//span[text()='Akshay Parashar']")
-    ak_message.click()
-    time.sleep(10)
-
-    input_message = driver.find_element(By.XPATH, "//div[@aria-label='Message']")
-    input_message.send_keys("Hello Akshay")
+    list_selection_send_message =driver.find_elements(By.XPATH, "//*[name()='svg']")
+    list_selection_send_message[4].click()
     time.sleep(5)
 
-    click = message_box = driver.find_element(
-    By.XPATH, "//div[@aria-label='Message' and @role='textbox']"
-)
-    click.click()
-    time.sleep(10)
+    enter_name = driver.find_element(By.XPATH, "//input[@aria-label='Search input']")
+    enter_name.send_keys("Akshay Parshar")
 
+    time.sleep(10)
+    click_name =driver.find_element(By.XPATH, "//span[contains(text(),'akshayparashar')]")
+    click_name.click()
+
+    time.sleep(5)
+
+
+
+    # ak_message = driver.find_element(By.XPATH, "//span[text()='Akshay Parashar']")
+    # ak_message.click()
+    # time.sleep(10)
+    #
+    # input_message = driver.find_element(By.XPATH, "//div[@aria-label='Message']")
+    # input_message.send_keys("Hello Akshay, This is a automated message, hope its sees you in best health :D")
+    # time.sleep(5)
+    #
+    # click = message_box = driver.find_element(
+    # By.XPATH, "//div[text()='Send']")
+    # click.click()
+    # #time.sleep(10)
+    #
 
 

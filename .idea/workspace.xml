@@ -4,17 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcfe627a-1734-418b-9a78-cb805eb57764" name="Changes" comment="31st jan">
-      <change afterPath="$PROJECT_DIR$/src/Pytest_practice/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pytest_practice/test_01_amazon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/new.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/new2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/test_mmt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Selenium_Basics/test_selenium_01_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Selenium_Commands/test_Selenium_07_OptionClass_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Selenium_Mini_Projects_Locators/test_1.py" afterDir="false" />
+    <list default="true" id="dcfe627a-1734-418b-9a78-cb805eb57764" name="Changes" comment="code updated on 2 march">
+      <change afterPath="$PROJECT_DIR$/src/Practice/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/test dropdown.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/test_google.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pytest_practice/confest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pytest_practice/test_02_vwo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_06_Selenium_Alerts/test_Selenium_16_Alerts2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Selenium_Ebay/test_selenium_Ebay_Project2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Select_Dropdown/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Select_Dropdown/test_Lab_Selenium_Select.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Selenium_Exceptions/test_Lab_Selenium_Exception2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Selenium_Exceptions/test_Lab_Selenium_Exception_StaleException2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Selenium_Exceptions/test_Lab_Selenium_Exception_TimeOutExp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_SVG/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_SVG/test_Lab_Selenium_SVG_Part1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_09_SVG/test_Lab_Selenium_SVG_Part2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_Selenium_Actions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_Selenium_Actions/test_Lab_Selenium_Actions_P1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_Selenium_Actions/test_Lab_Selenium_Actions_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_Selenium_Actions/test_Lab_Selenium_Actions_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_Selenium_Actions/test_Lab_Selenium_Actions_makemytrip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_Selenium_Actions/test_Lab_Selenium_Actions_spicejet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11_JS_Execute_Shadow_DOM/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11_JS_Execute_Shadow_DOM/test_Lab_Selenium_JS_P1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11_JS_Execute_Shadow_DOM/test_Lab_Selenium_JS_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11_JS_Execute_Shadow_DOM/test_Lab_Selenium_JS_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11_JS_Execute_Shadow_DOM/test_Lab_Selenium_JS_P3_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11_JS_Execute_Shadow_DOM/test_Lab_Selenium_JS_P4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11_JS_Execute_Shadow_DOM/test_Lab_Selenium_JS_P4_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11_JS_Execute_Shadow_DOM/test_Selenium_ORGANIZED_CODE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11_JS_Execute_Shadow_DOM/test_Selenium_ORGANIZED_CODE2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11_Windows_IFRAME/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11_Windows_IFRAME/test_Lab_Selenium_Iframe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11_Windows_IFRAME/test_Lab_Selenium_Iframe2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11_Windows_IFRAME/test_Lab_Selenium_Iframe_SelectorsHubPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11_Windows_IFRAME/test_Lab_Selenium_Iframe_SelectorsHubPage2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11_Windows_IFRAME/test_Lab_Selenium_Windows.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11_Windows_IFRAME/test_Lab_Selenium_Windows2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ex_03_Selenium_Mini_Projects_Locators/test_Instagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_03_Selenium_Mini_Projects_Locators/test_Instagram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_05_Selenium_Waits/test_Selenium_15_Waits_Explicit.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_05_Selenium_Waits/test_Selenium_15_Waits_Explicit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07_Selenium_Ebay/test_Selenium_Ebay_Project.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07_Selenium_Ebay/test_Selenium_Ebay_Project.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,42 +85,72 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python tests.Python tests for src.Pytest_practice.test_01_amazon.test_amazon.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.Task.test_mmt.test_makemytrip.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.Task.test_vwo_LoginPage.test_vwo_LoginPage.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.ex_01_Selenium_Basics.test_selenium_01.test_selenium_01.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.ex_01_Selenium_Basics.test_selenium_01_2.test_01.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.ex_02_Selenium_Commands.test_Selenium_07_OptionClass.test_chrome_option.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.ex_02_Selenium_Commands.test_Selenium_07_OptionClass_2.test_broswer.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.ex_03_Selenium_Mini_Projects_Locators.test_1.test_project_1_katalon_positive.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.ex_03_Selenium_Mini_Projects_Locators.test_Instagram.test_project_1_katalon_positive.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.ex_07_Selenium_Ebay.test_Selenium_Ebay_Project.test_ebay.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.ex_08_Selenium_Exceptions.test_Lab_Selenium_Exception.test_exception_handling.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for src.ex_08_Selenium_Exceptions.test_Lab_Selenium_Exception_StaleException.test_selenium_exception.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in 01_amazon.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_1.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_10_parrell_execution.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Instagram.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Lab_Selenium_Exception_StaleException.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Lab_Selenium_Exception_TimeOutExp.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.new.executor&quot;: &quot;Run&quot;,
-    &quot;Python.new2.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for src.Pytest_practice.test_01_amazon.test_amazon.executor": "Run",
+    "Python tests.Python tests for src.Pytest_practice.test_02_vwo.Test_VwoLogin.test_vwo.executor": "Run",
+    "Python tests.Python tests for src.Task.test_mmt.test_makemytrip.executor": "Run",
+    "Python tests.Python tests for src.Task.test_vwo_LoginPage.test_vwo_LoginPage.executor": "Run",
+    "Python tests.Python tests for src.ex_01_Selenium_Basics.test_selenium_01.test_selenium_01.executor": "Run",
+    "Python tests.Python tests for src.ex_01_Selenium_Basics.test_selenium_01_2.test_01.executor": "Run",
+    "Python tests.Python tests for src.ex_02_Selenium_Commands.test_Selenium_07_OptionClass.test_chrome_option.executor": "Run",
+    "Python tests.Python tests for src.ex_02_Selenium_Commands.test_Selenium_07_OptionClass_2.test_broswer.executor": "Run",
+    "Python tests.Python tests for src.ex_03_Selenium_Mini_Projects_Locators.test_1.test_project_1_katalon_positive.executor": "Run",
+    "Python tests.Python tests for src.ex_03_Selenium_Mini_Projects_Locators.test_Instagram.test_project_1_katalon_positive.executor": "Run",
+    "Python tests.Python tests for src.ex_05_Selenium_Waits.test_Selenium_15_Waits_Explicit.test_neg_app_vwo_com.executor": "Run",
+    "Python tests.Python tests for src.ex_06_Selenium_Alerts.test_Selenium_16_Alerts2.test_alerts_js_alert.executor": "Run",
+    "Python tests.Python tests for src.ex_07_Selenium_Ebay.test_Selenium_Ebay_Project.test_ebay.executor": "Run",
+    "Python tests.Python tests for src.ex_07_Selenium_Ebay.test_selenium_Ebay_Project2.test_ebay.executor": "Run",
+    "Python tests.Python tests for src.ex_08_Select_Dropdown.test_Lab_Selenium_Select.test_alerts_js_alert.executor": "Run",
+    "Python tests.Python tests for src.ex_08_Selenium_Exceptions.test_Lab_Selenium_Exception.test_exception_handling.executor": "Run",
+    "Python tests.Python tests for src.ex_08_Selenium_Exceptions.test_Lab_Selenium_Exception2.test_selenium_exceptions.executor": "Run",
+    "Python tests.Python tests for src.ex_08_Selenium_Exceptions.test_Lab_Selenium_Exception_StaleException.test_selenium_exception.executor": "Run",
+    "Python tests.Python tests for src.ex_08_Selenium_Exceptions.test_Lab_Selenium_Exception_StaleException2.test_selenium_exception.executor": "Run",
+    "Python tests.Python tests for src.ex_08_Selenium_Exceptions.test_Lab_Selenium_Exception_TimeOutExp.test_timeout_exception_demo.executor": "Run",
+    "Python tests.Python tests for src.ex_08_Selenium_Exceptions.test_Lab_Selenium_Exception_TimeOutExp2.test_timeout_exception_demo.executor": "Run",
+    "Python tests.Python tests for src.ex_10_Selenium_Actions.test_Lab_Selenium_Actions_P1.test_verify_actions_keyboard.executor": "Run",
+    "Python tests.Python tests for src.ex_10_Selenium_Actions.test_Lab_Selenium_Actions_P2.test_verify_action_keyboard.executor": "Run",
+    "Python tests.Python tests for src.ex_10_Selenium_Actions.test_Lab_Selenium_Actions_makemytrip.test_verify_action_makemytrip.executor": "Run",
+    "Python tests.Python tests for src.ex_10_Selenium_Actions.test_Lab_Selenium_Actions_spicejet.test_spicejet.executor": "Run",
+    "Python tests.Python tests for src.ex_11_JS_Execute_Shadow_DOM.test_Lab_Selenium_JS_P1.test_js.executor": "Run",
+    "Python tests.Python tests for src.ex_11_JS_Execute_Shadow_DOM.test_Lab_Selenium_JS_P2.test_js.executor": "Run",
+    "Python tests.Python tests for src.ex_11_JS_Execute_Shadow_DOM.test_Lab_Selenium_JS_P3.test_js.executor": "Run",
+    "Python tests.Python tests for src.ex_11_JS_Execute_Shadow_DOM.test_Lab_Selenium_JS_P3_2.test_js.executor": "Run",
+    "Python tests.Python tests for src.ex_11_JS_Execute_Shadow_DOM.test_Lab_Selenium_JS_P4.test_js.executor": "Run",
+    "Python tests.Python tests for src.ex_11_JS_Execute_Shadow_DOM.test_Lab_Selenium_JS_P4_2.test_js.executor": "Run",
+    "Python tests.Python tests for src.ex_11_JS_Execute_Shadow_DOM.test_Selenium_ORGANIZED_CODE.TestSelenium.executor": "Run",
+    "Python tests.Python tests for src.ex_11_JS_Execute_Shadow_DOM.test_Selenium_ORGANIZED_CODE2.Test_Seleniu.executor": "Run",
+    "Python tests.Python tests for src.ex_11_JS_Execute_Shadow_DOM.test_Selenium_ORGANIZED_CODE2.Test_Seleniu.test_js.executor": "Run",
+    "Python tests.Python tests for src.ex_11_Windows_IFRAME.test_Lab_Selenium_Iframe2.test_verify_windows.executor": "Run",
+    "Python tests.Python tests for src.ex_11_Windows_IFRAME.test_Lab_Selenium_Iframe_SelectorsHubPage.test_verify_windows.executor": "Run",
+    "Python tests.Python tests for src.ex_11_Windows_IFRAME.test_Lab_Selenium_Iframe_SelectorsHubPage2.test_verify_windows.executor": "Run",
+    "Python tests.Python tests for src.ex_11_Windows_IFRAME.test_Lab_Selenium_Windows2.test_window.executor": "Run",
+    "Python tests.Python tests in 01_amazon.py.executor": "Run",
+    "Python tests.Python tests in test_02_vwo.py.executor": "Run",
+    "Python tests.Python tests in test_1.py.executor": "Run",
+    "Python tests.Python tests in test_10_parrell_execution.py.executor": "Run",
+    "Python tests.Python tests in test_Instagram.py.executor": "Run",
+    "Python tests.Python tests in test_Lab_Selenium_Exception_StaleException.py.executor": "Run",
+    "Python tests.Python tests in test_Lab_Selenium_Exception_TimeOutExp.py.executor": "Run",
+    "Python tests.Python tests in test_Selenium_ORGANIZED_CODE.py.executor": "Run",
+    "Python tests.Python tests in test_Selenium_ORGANIZED_CODE2.py.executor": "Run",
+    "Python tests.Python tests in test_google.py.executor": "Run",
+    "Python.new.executor": "Run",
+    "Python.new2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\karan\PycharmProjects\PyATB6xLearningSelenium\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for src.Pytest_practice.test_01_amazon.test_amazon">
-    <configuration name="Python tests for src.Pytest_practice.test_01_amazon.test_amazon" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for src.ex_11_JS_Execute_Shadow_DOM.test_Selenium_ORGANIZED_CODE2.Test_Seleniu">
+    <configuration name="Python tests for src.ex_11_JS_Execute_Shadow_DOM.test_Selenium_ORGANIZED_CODE2.Test_Seleniu" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearningSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,11 +161,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;src.Pytest_practice.test_01_amazon.test_amazon&quot;" />
+      <option name="_new_target" value="&quot;src.ex_11_JS_Execute_Shadow_DOM.test_Selenium_ORGANIZED_CODE2.Test_Seleniu&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for src.ex_01_Selenium_Basics.test_selenium_01_2.test_01" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for src.ex_11_JS_Execute_Shadow_DOM.test_Selenium_ORGANIZED_CODE2.Test_Seleniu.test_js" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearningSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,11 +176,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;src.ex_01_Selenium_Basics.test_selenium_01_2.test_01&quot;" />
+      <option name="_new_target" value="&quot;src.ex_11_JS_Execute_Shadow_DOM.test_Selenium_ORGANIZED_CODE2.Test_Seleniu.test_js&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for src.ex_02_Selenium_Commands.test_Selenium_07_OptionClass_2.test_broswer" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for src.ex_11_JS_Execute_Shadow_DOM.test_Selenium_ORGANIZED_CODE.TestSelenium" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearningSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,11 +191,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;src.ex_02_Selenium_Commands.test_Selenium_07_OptionClass_2.test_broswer&quot;" />
+      <option name="_new_target" value="&quot;src.ex_11_JS_Execute_Shadow_DOM.test_Selenium_ORGANIZED_CODE.TestSelenium&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for src.ex_03_Selenium_Mini_Projects_Locators.test_Instagram.test_project_1_katalon_positive" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_Selenium_ORGANIZED_CODE2.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearningSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,11 +206,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;src.ex_03_Selenium_Mini_Projects_Locators.test_Instagram.test_project_1_katalon_positive&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/ex_11_JS_Execute_Shadow_DOM/test_Selenium_ORGANIZED_CODE2.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_01_amazon.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_Selenium_ORGANIZED_CODE.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearningSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,17 +221,17 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/Pytest_practice/test_01_amazon.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/ex_11_JS_Execute_Shadow_DOM/test_Selenium_ORGANIZED_CODE.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for src.Pytest_practice.test_01_amazon.test_amazon" />
-        <item itemvalue="Python tests.Python tests in test_01_amazon.py" />
-        <item itemvalue="Python tests.Python tests for src.ex_03_Selenium_Mini_Projects_Locators.test_Instagram.test_project_1_katalon_positive" />
-        <item itemvalue="Python tests.Python tests for src.ex_02_Selenium_Commands.test_Selenium_07_OptionClass_2.test_broswer" />
-        <item itemvalue="Python tests.Python tests for src.ex_01_Selenium_Basics.test_selenium_01_2.test_01" />
+        <item itemvalue="Python tests.Python tests for src.ex_11_JS_Execute_Shadow_DOM.test_Selenium_ORGANIZED_CODE2.Test_Seleniu" />
+        <item itemvalue="Python tests.Python tests for src.ex_11_JS_Execute_Shadow_DOM.test_Selenium_ORGANIZED_CODE2.Test_Seleniu.test_js" />
+        <item itemvalue="Python tests.Python tests for src.ex_11_JS_Execute_Shadow_DOM.test_Selenium_ORGANIZED_CODE.TestSelenium" />
+        <item itemvalue="Python tests.Python tests in test_Selenium_ORGANIZED_CODE.py" />
+        <item itemvalue="Python tests.Python tests in test_Selenium_ORGANIZED_CODE2.py" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +306,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769857223285</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="code updated on 2 march">
+      <option name="closed" value="true" />
+      <created>1772440656842</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1772440656842</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -255,7 +324,8 @@
     <MESSAGE value="Selenium Locator done with XPATH" />
     <MESSAGE value="Code updated" />
     <MESSAGE value="31st jan" />
-    <option name="LAST_COMMIT_MESSAGE" value="31st jan" />
+    <MESSAGE value="code updated on 2 march" />
+    <option name="LAST_COMMIT_MESSAGE" value="code updated on 2 march" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

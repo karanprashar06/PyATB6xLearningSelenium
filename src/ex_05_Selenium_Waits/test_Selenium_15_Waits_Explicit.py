@@ -47,8 +47,10 @@ def test_neg_app_vwo_com():
     # Smart Logic to wait for the element
     # Condition based Logic
 
-    WebDriverWait(driver,5).until(
-        EC.visibility_of_element_located((By.XPATH,"//div[@class='notification-box-description']")))
+    wait = WebDriverWait(driver, 5)
+    err_msge = wait.until(EC.visibility_of_element_located((By.XPATH,"//div[@class='notification-box-description']")))
+    #WebDriverWait(driver,5).until(
+       # EC.visibility_of_element_located((By.XPATH,"//div[@class='notification-box-description']")))
     # Error Message validation - "Your email, password, IP address or location did not match"
     err_msg = driver.find_element(By.XPATH, "//div[@class='notification-box-description']")
     print(err_msg.text)
